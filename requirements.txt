@@ -27,6 +27,7 @@ oauth2client==1.4.11
 pyasn1==0.1.7
 pyasn1-modules==0.0.5
 python-dateutil==2.4.2
+python-ldap
 pytz==2015.4
 mysql-python==1.2.5
 rsa==3.1.4
