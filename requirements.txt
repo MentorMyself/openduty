@@ -37,3 +37,4 @@ twilio==4.4.0
 vobject==0.9.1
 wsgiref==0.1.2
 django-twilio
+libsasl2-dev
