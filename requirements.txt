@@ -1,3 +1,4 @@
+libffi
 requests[security]
 psycopg2==2.5.1
 Django==1.8.2
